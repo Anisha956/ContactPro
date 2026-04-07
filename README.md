@@ -33,13 +33,8 @@ The project is engineered with a strict **Separation of Concerns** to ensure the
 ---
 
 ## 📸 Preview
-| Contact List | Add Contact | Contact Detail |
-| :---: | :---: | :---: |
-| ![List](https://via.placeholder.com/200x400?text=Contact+List) | ![Add](https://via.placeholder.com/200x400?text=Add+New) | ![Detail](https://via.placeholder.com/200x400?text=Details) |
+<img src="home_screen.jpg" width="200"> <img src="add_contact.jpg" width="200"> <img src="detail_screen.jpg" width="200"> <img src="edit_screen.jpg" width="200">
 
-*(Note: Replace these placeholders with actual screenshots from your emulator for a professional look!)*
-
----
 
 ## 📥 Getting Started
 1. Clone the repository:
