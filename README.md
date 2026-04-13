@@ -27,7 +27,8 @@ I used MVVM architecture to keep the code clean and easy to understand:
 * **Language:** Kotlin  
 * **UI:** Jetpack Compose  
 * **Database:** Room  
-* **Architecture:** MVVM  
+* **Architecture:** MVVM
+* **Concurrency:** Coroutines & Flow
 * **Image Loading:** Coil  
 
 ---
